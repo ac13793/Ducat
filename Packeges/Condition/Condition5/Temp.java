@@ -7,7 +7,7 @@ public class Temp
 {
 	public void show()
 	{
-		System.out.println("from Temp class Locally");
+		System.out.println("from Temp class in package p");
 	}
   public static void main(String ...g)
   {
